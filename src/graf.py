@@ -5,6 +5,14 @@ def nodeIndex(graf, node):
             index = i
     return index
 
+def clearNode(node):
+    if(node[len(node)-1] == "\n"):
+        return node[:-2]
+    elif(node[len(node)-1] == "."):
+        return node[:-1]
+    else:
+        return node
+
 def inputNode(graf, node):
     if(nodeIndex(graf,node) == -1):
         graf.append([node,[]])
