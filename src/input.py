@@ -12,5 +12,8 @@ while(read != ""):
             if(i == 0):
                 inputNode(graf, clearNode(nodes[i]))
             else:
-                inputEdge(graf, nodes[0], clearNode(nodes[i]))
+                inputEdge(graf, clearNode(nodes[i]), nodes[0])
     read = inputFile.readline()
+
+for i in range(len(graf)):
+    print(graf[i])
