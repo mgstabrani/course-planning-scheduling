@@ -28,4 +28,12 @@ def deleteEdge(graf, nodeFrom, nodeTo):
     graf[nodeIndex(graf,nodeTo)][1].remove(nodeFrom)
 
 def deleteNode(graf, node):
-    graf.pop(nodeIndex(graf,node))
+    popNode = graf.pop(nodeIndex(graf,node))
+    for i in range(len(graf)):
+        for j in range(len(graf[i][1])):
+            if(graf[i][1][j] == node):
+                deleteEdge(graf, node, graf[i][0])
+                break
+
+def degree(graf, node):
+    return len(graf[nodeIndex(graf,node)][1])
