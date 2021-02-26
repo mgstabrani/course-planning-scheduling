@@ -1,6 +1,9 @@
 from topologicalSort import topologicalSort
 from input import graf
 
+print(50*"=")
+print("You can follow this planning to grab your cumlaude")
+print(50*"-")
 solution = topologicalSort(graf)
 for i in range(len(solution)):
     print("Semester", i+1, ": ", end="")
@@ -10,3 +13,4 @@ for i in range(len(solution)):
         else:
             print(solution[i][j], end=", ")
     print()
+print(50*"=")
