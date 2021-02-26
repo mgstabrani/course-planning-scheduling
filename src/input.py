@@ -14,6 +14,3 @@ while(read != ""):
             else:
                 inputEdge(graf, clearNode(nodes[i]), nodes[0])
     read = inputFile.readline()
-
-for i in range(len(graf)):
-    print(graf[i])
