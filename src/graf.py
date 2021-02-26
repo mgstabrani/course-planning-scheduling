@@ -23,3 +23,9 @@ def inputEdge(graf, nodeFrom, nodeTo):
     else:
         inputNode(graf, nodeTo)
         graf[nodeIndex(graf, nodeTo)][1].append(nodeFrom)
+
+def deleteEdge(graf, nodeFrom, nodeTo):
+    graf[nodeIndex(graf,nodeTo)][1].remove(nodeFrom)
+
+def deleteNode(graf, node):
+    graf.pop(nodeIndex(graf,node))
