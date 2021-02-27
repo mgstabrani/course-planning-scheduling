@@ -1,0 +1,43 @@
+Matematika IA.
+Fisika Dasar IA.
+Olah Raga.
+Pengenalan Komputasi.
+Tata Tulis Karya Ilmiah.
+Bahasa Inggris.
+Matematika IIA, Matematika IA.
+Fisika Dasar IIA, Fisika Dasar IA.
+Dasar Pemograman, Pengenalan Komputasi.
+Pengantar Rekayasa dan Desain, Tata Tulis Karya Ilmiah.
+Kimia Dasar B, Matematika IA, Fisika Dasar IA.
+Pengantar Analisis Rangkaian, Fisika Dasar IA.
+Probabilitas dan Statistika, Matematika IIA.
+Matematika Rekayasa IA, Matematika IIA.
+Rangkaian Elektrik, Pengantar Analisis Rangkaian.
+Praktikum Rangkaian Elektrik, Pengantar Analisis Rangkaian.
+Sistem Digital & Mikroprosesor, Fisika Dasar IIA.
+Rekayasa Termal dan Mekanika Fluid, Fisika Dasar IIA.
+Sistem Pengukuran, Probabilitas dan Statistika.
+Sinyal & Sistem, Sistem Digital & Mikroprosesor.
+Matematika Rekayasa IIA, Matematika Rekayasa IA.
+Elektronika, Rangkaian Elektrik.
+Praktikum Elektronika, Praktikum Rangkaian Elektrik.
+Medan Elektromagnetik, Sistem Digital & Mikroprosesor.
+Mesin Mesin Listrik, Elektronika.
+Analisis Numerik dalam Tenaga Listrik, Matematika Rekayasa IIA, Sistem Pengukuran.
+Analisis Sistem Tenaga, Sistem Pengukuran.
+Material Elektroteknik, Elektronika.
+Praktikum Tenaga Listrik I, Praktikum Elektronika.
+Ekonomi Teknik, Sistem Pengukuran.
+Sistem Kendali, Sinyal & Sistem.
+Praktikum Tenaga Listrik II, Praktikum Tenaga Listrik I.
+Pembangkit Tenaga Listrik, Analisis Sistem Tenaga.
+Elektronika Daya, Material Elektroteknik.
+Teknik Tegangan Tinggi, Analisis Sistem Tenaga, Mesin Mesin Listrik.
+Proteksi Sistem Tenaga, Analisis Sistem Tenaga.
+Tugas Akhir I & Seminar, Praktikum Tenaga Listrik II.
+Pemanfaatan Energi Listrik, Pembangkit Tenaga Listrik.
+Kapita Selekta Tenaga Listrik, Elektronika Daya.
+Sistem Distribusi Tenaga Listrik, Teknik Tegangan Tinggi.
+Kerja Praktek, Pemanfaatan Energi Listrik.
+Tugas Akhir II, Tugas Akhir I & Seminar.
+Desain Sistem Tenaga Listrik, Kapita Selekta Tenaga Listrik.
