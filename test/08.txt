@@ -1,0 +1,46 @@
+Matematika IA.
+Fisika Dasar IA.
+Olah Raga.
+Pengenalan Komputasi.
+Tata Tulis Karya Ilmiah.
+Bahasa Inggris.
+Matematika IIA, Matematika IA.
+Fisika Dasar IIA, Fisika Dasar IA.
+Dasar Pemograman, Pengenalan Komputasi.
+Pengantar Rekayasa dan Desain, Tata Tulis Karya Ilmiah.
+Kimia Dasar B, Matematika IA, Fisika Dasar IA.
+Pengantar Analisis Rangkaian, Fisika Dasar IA.
+Rangkaian Elektrik, Pengantar Analisis Rangkaian.
+Praktikum Rangkaian Elektrik, Pengantar Analisis Rangkaian.
+Sistem Digital, Fisika Dasar IIA.
+Praktikum Sistem Digital, Fisika Dasar IIA.
+Struktur Diskrit, Matematika IIA.
+Probabilitas & Statistika, Matematika IIA.
+Matematika Rekayasa IA, Matematika IIA.
+Elektronika, Rangkaian Elektrik.
+Praktikum Elektronika, Praktikum Rangkaian Elektrik.
+Medan Elektromagnetik, Sistem Digital.
+Sinyal & Sistem, Praktikum Sistem Digital.
+Pemecahan Masalah dengan C, Probabilitas & Statistika.
+Praktikum Pemecahan Masalah dengan C, Struktur Diskrit.
+Matematika Rekayasa IIA, Matematika Rekayasa IA.
+Elektronika II, Elektronika.
+Praktikum Elektronika II, Praktikum Elektronika.
+Pengolahan Sinyal Digital, Sinyal & Sistem.
+Praktikum Pengolahan Sinyal Digital, Sinyal & Sistem.
+Arsitektur Sistem Komputer, Pemecahan Masalah dengan C.
+Praktikum Arsitektur Sistem Komputer, Praktikum Pemecahan Masalah dengan C.
+Material Teknik Elektro, Elektronika.
+Sistem Instrumentasi, Sinyal & Sistem.
+Sistem Mikroprosesor, Elektronika II.
+Praktikum Sistem Mikroprosesor, Praktikum Elektronika II.
+Sistem Kendali, Sistem Instrumentasi.
+Praktikum Sistem Kendali, Sistem Instrumentasi.
+Sistem Komunikasi, Pengolahan Sinyal Digital.
+Praktikum Sistem Komunikasi, Praktikum Pengolahan Sinyal Digital.
+Sistem Tenaga Elektrik, Material Teknik Elektro.
+Praktikum Sistem Tenaga Elektrik, Material Teknik Elektro.
+Etika Profesi & Rekayasa, Material Teknik Elektro.
+Kerja Praktek, Praktikum Sistem Tenaga Elektrik.
+Tugas Akhir I (Capstone Design), Sistem Tenaga Elektrik.
+Tugas Akhir II (Capstone Design), Tugas Akhir I (Capstone Design).
