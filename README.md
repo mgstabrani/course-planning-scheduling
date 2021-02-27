@@ -42,5 +42,47 @@ atau
 python main.py
 ```
 - Kemudian masukkan input file yang berisi nama mata kuliah beserta prerequisite-nya.
+### Contoh input dan output
+- Input file
+```
+Matematika IA.
+Fisika Dasar IA.
+Olah Raga.
+Pengenalan Komputasi.
+Tata Tulis Karya Ilmiah.
+Bahasa Inggris.
+Matematika IIA, Matematika IA.
+Fisika Dasar IIA, Fisika Dasar IA.
+Dasar Pemograman, Pengenalan Komputasi.
+Pengantar Rekayasa dan Desain, Tata Tulis Karya Ilmiah.
+Kimia Dasar B, Matematika IA, Fisika Dasar IA.
+Pengantar Analisis Rangkaian, Fisika Dasar IA.
+Logika Komputasional, Matematika IIA, Dasar Pemograman.
+Algoritma dan Struktur Data, Dasar Pemograman.
+Matematika Diskrit, Matematika IIA.
+Teori Bahasa Formal dan Otomata, Dasar Pemograman.
+Aljabar Linier dan Geometri, Matematika IIA.
+Organisasi dan Arsitektur Komputer, Dasar Pemograman.
+Pemograman Berorientasi Objek, Algoritma dan Struktur Data.
+Strategi Algoritma, Algoritma dan Struktur Data.
+Probabilitas dan Statistika, Matematika Diskrit.
+Sistem Operasi, Organisasi dan Arsitektur Komputer.
+Basis Data, Matematika Diskrit, Logika Komputasional.
+Rekayasa Perangkat Lunak, Teori Bahasa Formal dan Otomata.
+```
+- Output
+```
+You can follow this planning to grab your cumlaude
+--------------------------------------------------
+Semester 1 : Matematika IA, Fisika Dasar IA, Olah Raga, Pengenalan Komputasi, Tata Tulis Karya Ilmiah, Bahasa Inggris.
+
+Semester 2 : Matematika IIA, Fisika Dasar IIA, Dasar Pemograman, Pengantar Rekayasa dan Desain, Kimia Dasar B, Pengantar Analisis Rangkaian.
+
+Semester 3 : Logika Komputasional, Algoritma dan Struktur Data, Matematika Diskrit, Teori Bahasa Formal dan Otomata, Aljabar Linier dan Geometri, Organisasi dan Arsitektur Komputer.
+
+Semester 4 : Pemograman Berorientasi Objek, Strategi Algoritma, Probabilitas dan Statistika, Sistem Operasi, Basis Data, Rekayasa Perangkat Lunak.
+
+
+```
 ## Author
 [Mgs. Tabrani (13519122)](https://github.com/mgstabrani)
