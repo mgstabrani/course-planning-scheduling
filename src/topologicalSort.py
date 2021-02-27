@@ -1,5 +1,6 @@
 from graf import *
 
+# Function to find the nodes that have zero degree
 def findZeroDegree(graf):
     solution = []
     for i in range(len(graf)):
@@ -7,6 +8,7 @@ def findZeroDegree(graf):
             solution.append(i)
     return solution
 
+# Function to solve the problem using topological sort
 def topologicalSort(graf):
     solution = []
     semester = 0
