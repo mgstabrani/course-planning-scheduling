@@ -1,0 +1,40 @@
+Matematika IA.
+Fisika Dasar IA.
+Olah Raga.
+Pengenalan Komputasi.
+Tata Tulis Karya Ilmiah.
+Bahasa Inggris.
+Matematika IIA, Matematika IA.
+Fisika Dasar IIA, Fisika Dasar IA.
+Dasar Pemograman, Pengenalan Komputasi.
+Pengantar Rekayasa dan Desain, Tata Tulis Karya Ilmiah.
+Kimia Dasar B, Matematika IA, Fisika Dasar IA.
+Pengantar Analisis Rangkaian, Fisika Dasar IA.
+Rangkaian Elektrik dan Elektronika, Pengantar Analisis Rangkaian.
+Anatomi dan Fisiologi I, Kimia Dasar B.
+Dasar Teknik Biomedis, Pengantar Rekayasa dan Desain.
+Matematika Rekayasa IA, Matematika IIA.
+Biokimia, Kimia Dasar B.
+Sistem Digital & Mikroprosesor, Fisika Dasar IIA.
+Praktikum Rangkaian Elektrik, Pengantar Analisis Rangkaian.
+Elektronika Biomedika, Rangkaian Elektrik dan Elektronika.
+Anatomi dan Fisiologi II, Anatomi dan Fisiologi I.
+Praktikum Teknik Biomedis I, Dasar Teknik Biomedis.
+Matematika Rekayasa IIA, Matematika Rekayasa IA.
+Pemecahan Masalah dengan C, Sistem Digital & Mikroprosesor.
+Praktikum Pemecahan Matematika dengan C, Praktikum Rangkaian Elektrik.
+Fisika Biomedika, Elektronika Biomedika.
+Probabilitas dan Biostatistika, Matematika Rekayasa IIA.
+Pengukuran dan Instrumentasi Biomedika, Praktikum Teknik Biomedis I.
+Praktikum Teknik Biomedis II, Praktikum Teknik Biomedis I.
+Pengolahan Sinyal Biomedika, Elektronika Biomedika.
+Biologi Sel dan Molekul Terapan, Anatomi dan Fisiologi II.
+Bioelektromagnetika, Fisika Biomedika.
+Biomekanika, Fisika Biomedika.
+Pengolahan Citra Biomedika, Pengolahan Sinyal Biomedika.
+Praktikum Teknik Biomedis III, Praktikum Teknik Biomedis II.
+Bioetika, Pengukuran dan Instrumentasi Biomedika.
+Biodinaika Molekuler, Biologi Sel dan Molekul Terapan.
+Tugas Akhir I dan Seminar, Praktikum Teknik Biomedis III.
+Perancangan Sistem Biomedika, Biomekanika, Bioelektromagnetika, Bioetika.
+Tugas Akhir II, Tugas Akhir I dan Seminar, Perancangan Sistem Biomedika.
