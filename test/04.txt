@@ -1,0 +1,24 @@
+Matematika IA.
+Fisika Dasar IA.
+Olah Raga.
+Pengenalan Komputasi.
+Tata Tulis Karya Ilmiah.
+Bahasa Inggris.
+Matematika IIA, Matematika IA.
+Fisika Dasar IIA, Fisika Dasar IA.
+Dasar Pemograman, Pengenalan Komputasi.
+Pengantar Rekayasa dan Desain, Tata Tulis Karya Ilmiah.
+Kimia Dasar B, Matematika IA, Fisika Dasar IA.
+Pengantar Analisis Rangkaian, Fisika Dasar IA.
+Logika Komputasional, Matematika IIA, Dasar Pemograman.
+Algoritma dan Struktur Data, Dasar Pemograman.
+Matematika Diskrit, Matematika IIA.
+Teori Bahasa Formal dan Otomata, Dasar Pemograman.
+Aljabar Linier dan Geometri, Matematika IIA.
+Organisasi dan Arsitektur Komputer, Dasar Pemograman.
+Pemograman Berorientasi Objek, Algoritma dan Struktur Data.
+Strategi Algoritma, Algoritma dan Struktur Data.
+Probabilitas dan Statistika, Matematika Diskrit.
+Sistem Operasi, Organisasi dan Arsitektur Komputer.
+Basis Data, Matematika Diskrit, Logika Komputasional.
+Rekayasa Perangkat Lunak, Teori Bahasa Formal dan Otomata.

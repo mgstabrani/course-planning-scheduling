@@ -1,0 +1,7 @@
+Matematika.
+Fisika.
+Kimia.
+Kalkulus, Matematika.
+Fisika Modern, Fisika, Matematika, Kimia, Kalkulus.
+Koding, Matematika, Bahasa Inggris, Fisika Modern.
+Bahasa Inggris.
