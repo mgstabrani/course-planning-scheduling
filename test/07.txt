@@ -1,0 +1,26 @@
+Sistem dan Arsitektur Komputer.
+Matematika STI.
+Probabilitas dan Statistik.
+Organisasi & Manajemen Perusahaan Industri.
+Pemodelan Basis Data.
+Algoritma dan Struktur Data STI.
+Manajemen Basis Data, Pemodelan Basis Data.
+Sistem Embedded, Sistem dan Arsitektur Komputer.
+Jaringan Komputer, Sistem dan Arsitektur Komputer.
+Manajemen Sumber Daya STI, Organisasi & Manajemen Perusahaan Industri.
+Analisis Kebutuhan Sistem, Probabilitas dan Statistik.
+Pemograman Berorientasi Objek STI, Algoritma dan Struktur Data STI.
+Sistem Multimedia, Sistem Embedded.
+Teknologi Sistem Terintegrasi, Jaringan Komputer.
+Layanan Sistem dan Teknologi Informasi, Analisis Kebutuhan Sistem.
+Interaksi Manusia Komputer, Manajemen Sumber Daya STI.
+Analisis Kebutuhan Enterprise, Analisis Kebutuhan Sistem.
+Rekayasa Perangkat Lunak STI, Manajemen Basis Data.
+Platfrom dan Pengembangan Aplikasi Mobile, Rekayasa Perangkat Lunak STI.
+Keamanan Informasi, Teknologi Sistem Terintegrasi.
+Manajemen Proyek STI, Analisis Kebutuhan Enterprise.
+Arsitektur Enterprise, Analisis Kebutuhan Enterprise.
+Rekayasa Sistem dan Teknologi Informasi, Layanan Sistem dan Teknologi Informasi.
+Kerja Praktek, Manajemen Proyek STI.
+Tugas Akhir 1 & Seminar, Rekayasa Sistem dan Teknologi Informasi.
+Tugas Akhir 2, Tugas Akhir 1 & Seminar.
