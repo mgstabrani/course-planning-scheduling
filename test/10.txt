@@ -1,0 +1,48 @@
+Matematika IA.
+Fisika Dasar IA.
+Olah Raga.
+Pengenalan Komputasi.
+Tata Tulis Karya Ilmiah.
+Bahasa Inggris.
+Matematika IIA, Matematika IA.
+Fisika Dasar IIA, Fisika Dasar IA.
+Dasar Pemograman, Pengenalan Komputasi.
+Pengantar Rekayasa dan Desain, Tata Tulis Karya Ilmiah.
+Kimia Dasar B, Matematika IA, Fisika Dasar IA.
+Pengantar Analisis Rangkaian, Fisika Dasar IA.
+Matematika Diskrit, Matematika IIA.
+Rangkaian Listrik, Pengantar Analisis Rangkaian.
+Desain Sistem Digital, Pengantar Rekayasa dan Desain.
+Pemograman, Dasar Pemograman.
+Probabilitas dan Statistik, Matematika IIA.
+Praktikum Telekomunikasi IA, Fisika Dasar IIA.
+Matematika Rekayasa IA, Matematika IIA.
+Medan Elektromagnetik I, Desain Sistem Digital.
+Elekronika Komunikasi, Praktikum Telekomunikasi IA.
+Pengolahan Sinyal dalam Waktu Kontinyu, Desain Sistem Digital.
+Sistem Embedded, Pemograman.
+Jaringan Komputer I, Pemograman.
+Praktikum Telekomunikasi IIA, Praktikum Telekomunikasi IA.
+Praktikum Telekomunikasi IIB, Praktikum Telekomunikasi IA.
+Matematika Rekayasa IIA, Matematika Rekayasa IA.
+Medan Elektromagnetik II, Medan Elektromagnetik I.
+Sistem Komunikasi I, Elekronika Komunikasi.
+Jaringan Komputer II, Jaringan Komputer I.
+Pengolahan Sinyal dalam Waktu Diskrit, Pengolahan Sinyal dalam Waktu Kontinyu.
+Pemograman Lanjut, Sistem Embedded.
+Praktikum Telekomunikasi IIIA, Praktikum Telekomunikasi IIA.
+Praktikum Telekomunikasi IIIB, Praktikum Telekomunikasi IIB.
+Sistem Komunikasi II, Sistem Komunikasi I.
+Antena & Propagasi Gelombang, Medan Elektromagnetik II.
+Elekronika Frekuensi Radio, Pengolahan Sinyal dalam Waktu Diskrit.
+Sistem Komunikasi Optik, Sistem Komunikasi I, Jaringan Komputer II.
+Jaringan Antrian, Pemograman Lanjut.
+Praktikum Telekomunikasi IVA, Praktikum Telekomunikasi IIIA.
+Praktikum Telekomunikasi IVB, Praktikum Telekomunikasi IIIB.
+Kerja Praktek, Praktikum Telekomunikasi IVA, Praktikum Telekomunikasi IVB.
+Manajemen Proyek Telekomunikasi, Sistem Komunikasi II.
+Tugas Akhir I & Seminar, Praktikum Telekomunikasi IVA, Praktikum Telekomunikasi IVB.
+Jaringan Inti dan Transport, Jaringan Antrian.
+Layanan Tersambung & Komunikasi Awan, Antena & Propagasi Gelombang.
+Jaringan Akses Nir-kabel, Elekronika Frekuensi Radio.
+Tugas Akhir II, Tugas Akhir I & Seminar.
