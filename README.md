@@ -4,6 +4,7 @@ Aplikasi sederhana yang dapat menyusun
 rencana pengambilan kuliah, dengan memanfaatkan algoritma Decrease and Conquer. Penyusunan
 Rencana Kuliah diimplementasikan dengan menggunakan pendekatan Topological Sorting.
 ## Requirements dan Instalasi
+### Instalasi
 - Python >= versi 3.8
 - Install pyinstaller
 ```
@@ -12,6 +13,13 @@ pip3 install pyinstaller
 atau
 ```
 pip install pyinstaller
+```
+### Requirements input file
+```
+<kode_kuliah_1>, <kode kuliah prasyarat - 1>, <kode kuliah prasyarat - 2>, <kode kuliah prasyarat - 3>.
+<kode_kuliah_2>, <kode kuliah prasyarat - 1>, <kode kuliah prasyarat - 2>.
+<kode_kuliah_3>, <kode kuliah prasyarat - 1>, <kode kuliah prasyarat - 2>, <kode kuliah prasyarat - 3>, <kode kuliah prasyarat - 4>.
+<kode_kuliah_4>.
 ```
 ## Cara Menggunakan Program
 ### Menjalankan melalui executable file
