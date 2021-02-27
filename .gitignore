@@ -1,2 +1,4 @@
 __pycache__
 .vscode
+src/build/
+src/main.spec
