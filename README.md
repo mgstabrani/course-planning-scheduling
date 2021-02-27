@@ -81,8 +81,6 @@ Semester 2 : Matematika IIA, Fisika Dasar IIA, Dasar Pemograman, Pengantar Rekay
 Semester 3 : Logika Komputasional, Algoritma dan Struktur Data, Matematika Diskrit, Teori Bahasa Formal dan Otomata, Aljabar Linier dan Geometri, Organisasi dan Arsitektur Komputer.
 
 Semester 4 : Pemograman Berorientasi Objek, Strategi Algoritma, Probabilitas dan Statistika, Sistem Operasi, Basis Data, Rekayasa Perangkat Lunak.
-
-
 ```
 ## Author
 [Mgs. Tabrani (13519122)](https://github.com/mgstabrani)
