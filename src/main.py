@@ -1,7 +1,7 @@
 from topologicalSort import topologicalSort
 from input import graf
 
-print(50*"=")
+print("\n" + 50*"=")
 print("You can follow this planning to grab your cumlaude")
 print(50*"-")
 solution = topologicalSort(graf)

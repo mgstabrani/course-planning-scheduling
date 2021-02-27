@@ -7,7 +7,7 @@ inputFile = input("Please input your file: ")
 inputFile = open(inputFile, "r")
 graf = []
 
-print(50*"=")
+print("\n" + 50*"=")
 print("Here are your courses, followed by required courses")
 print(50*"-")
 read = inputFile.readline()
