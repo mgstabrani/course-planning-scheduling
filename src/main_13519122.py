@@ -1,5 +1,5 @@
-from topologicalSort import topologicalSort
-from problem import *
+from topologicalSort_13519122 import topologicalSort
+from problem_13519122 import *
 
 # Initialize a graph using array
 graf = []

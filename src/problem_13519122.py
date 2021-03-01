@@ -1,6 +1,19 @@
-from graf import *
+from graf_13519122 import *
 
 # Procedure for inputing problem from file
+'''
+Input data will be graph represented by array
+[[<kode_kuliah_1>, 
+    [<kode kuliah prasyarat - 1>, <kode kuliah prasyarat - 2>, <kode kuliah prasyarat - 3>]],
+[<kode_kuliah_2>, 
+    [<kode kuliah prasyarat - 1>, <kode kuliah prasyarat - 2>]],
+[<kode_kuliah_3>, 
+    [<kode kuliah prasyarat - 1>, <kode kuliah prasyarat - 2>, <kode kuliah prasyarat - 3>, <kode kuliah prasyarat - 4>]],
+[<kode_kuliah_4>]]
+
+Note:
+[[node, [nodes From]]]
+'''
 def inputFile(graf):
     inputFile = input("Please input your file: ")
     inputFile = open(inputFile, "r")

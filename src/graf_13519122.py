@@ -40,6 +40,7 @@ def deleteNode(graf, node):
             if(graf[i][1][j] == node):
                 deleteEdge(graf, node, graf[i][0])
                 break
+
 # Function to find the degree of the node
 def degree(graf, node):
     return len(graf[nodeIndex(graf,node)][1])

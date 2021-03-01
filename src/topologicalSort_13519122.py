@@ -1,4 +1,4 @@
-from graf import *
+from graf_13519122 import *
 
 # Function to find the nodes that have zero degree
 def findZeroDegree(graf):
