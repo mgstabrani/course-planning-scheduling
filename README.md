@@ -2,7 +2,7 @@
 ## Deskripsi Singkat Program
 Aplikasi sederhana yang dapat menyusun rencana pengambilan kuliah, dengan memanfaatkan algoritma Decrease and Conquer. Penyusunan Rencana Kuliah diimplementasikan dengan menggunakan pendekatan Topological Sorting.
 ## Penjelasan singkat algoritma Decrease and Conquer yang diimplementasikan
-Penyusunan rencana kuliah dapat dilakukan dengan pendekatan Algoritma topological sort. Mula-mula seluruh mata kuliah dibuat dalam pendekatan graph. Mata kuliah yang memiliki prerequisite akan memiliki edge dengan mata kuliah prerequisite-nya dengan arah dari mata kuliah prerequisite-nya menuju mata kuliah tersebut. Selanjutnya, topological sort akan diterapkan untuk menentukan mata kuliah apa saja yang diambil pada semester tertentu.
+Penyusunan rencana kuliah dapat dilakukan dengan pendekatan Algoritma topological sort. Mula-mula seluruh mata kuliah dibuat dalam pendekatan directed acyclic graph. Mata kuliah yang memiliki prerequisite akan memiliki edge dengan mata kuliah prerequisite-nya dengan arah dari mata kuliah prerequisite-nya menuju mata kuliah tersebut. Selanjutnya, topological sort akan diterapkan untuk menentukan mata kuliah apa saja yang diambil pada semester tertentu.
 Pertama, hitung semua derajat masuk setiap node, yaitu banyaknya edge yang masuk pada node tersebut. Kemuan pilih seluruh node yang memiliki derajat masuk sama dengan 0. Ambil node tersebut, masukkan ke dalam solusi dan hilangkan node tersebut beserta semua edge yang keluar dari node tersebut, dan kurangi derajat node yang berhubungan dengan node tersebut. Kemudian langkah tersebut diulangi dan index solusi di-increment sebagai penentu semester yang bisa diambil dari mata kuliah tersebut.
 ## Requirements dan Instalasi
 ### Instalasi
