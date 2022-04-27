@@ -10,10 +10,9 @@ def nodeIndex(graf, node):
 def clearNode(node):
     if node[-1] == "\n":
         return node[:-2]
-    elif node[-1] == ".":
+    if node[-1] == ".":
         return node[:-1]
-    else:
-        return node
+    return node
 
 # Procedure to add the node
 def inputNode(graf, node):
