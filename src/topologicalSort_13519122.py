@@ -4,7 +4,7 @@ from graf_13519122 import *
 def findZeroDegree(graf):
     solution = []
     for i in range(len(graf)):
-        if(degree(graf,graf[i][0]) == 0):
+        if degree(graf,graf[i][0]) == 0:
             solution.append(i)
     return solution
 
@@ -12,7 +12,7 @@ def findZeroDegree(graf):
 def topologicalSort(graf):
     solution = []
     semester = 0
-    while(len(graf) > 0):
+    while len(graf) > 0:
         solution.append([])
         zeroDegree = findZeroDegree(graf)
         for i in range(len(zeroDegree)):
