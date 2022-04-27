@@ -8,9 +8,9 @@ def nodeIndex(graf, node):
 
 # Function to clear unused character from the node
 def clearNode(node):
-    if node[len(node)-1] == "\n":
+    if node[-1] == "\n":
         return node[:-2]
-    elif node[len(node)-1] == ".":
+    elif node[-1] == ".":
         return node[:-1]
     else:
         return node
